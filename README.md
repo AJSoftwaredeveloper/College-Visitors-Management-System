@@ -1,0 +1,2 @@
+# College-Visitors-Management-System
+This Application provides a computerized version of College Visitor Management System which will benefit the College.    It makes entire process online and can generate reports. It has a facility of staff’s login where staff can fill the visitor details and generate report.    The Application was designed in such a way that future changes can be done easily. The following conclusions can be deduced from the development of the project. 
